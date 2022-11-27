@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv": "^6.2.3",
+    "csv-stringify": "^6.2.2",
+    "cucumber": "^6.0.7",
+    "dotenv": "^16.0.3",
+    "firebase-admin": "^11.3.0",
+    "moment": "^2.29.4"
+  }
+}
