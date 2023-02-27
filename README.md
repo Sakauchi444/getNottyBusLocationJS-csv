@@ -4,8 +4,12 @@
 
 Firebaseの環境変数をdotenvに追加すると使えるようになります．
 
-以下を実行前に行う
+
 
 ```
+// 以下を実行前に行う
 npm install
+
+// 実行
+node index.js
 ```
